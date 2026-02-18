@@ -1,13 +1,11 @@
 {
-  
-"version": 0,
-"message": "7:57PM 24/10/2024\nConfig version: 1 \nWhat's new \n\nV2ray ဖိုင် ထပ်ထည့်ထားပါတယ် လိုင်းမကောင်းရင် V2rayဖိုင် ရွေးချိတ်သုံးပါ ",
-"fileUrl": "https://upkdev.pphdev.xyz/up.txt",
-
-"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
-"title":" ",
-"link":"",
-"website":"",
-"versionCode": 1
-  
+ "version": 7,
+ "message": "Config version: 7\nWhat's new \n Servers updated.yyttt \nAdmin👨‍💻 UPK",
+ "fileUrl": "https:\/\/raw.githubusercontent.com\/Pkvipvpn\/upkfreevippro2025\/main\/up.txt",
+ "RewardAmount": 1,
+ "messageWarning": "No warning message set.",
+ "title": "Config Update Available",
+ "link": "",
+ "website": "",
+ "versionCode": 1
 }
